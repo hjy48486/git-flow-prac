@@ -1,7 +1,7 @@
 # git-flow-prac
 git flow를 간략하게 익히기 위한 프로젝트입니다 (참고: velog)
 
-# 브랜치 전략
+## 브랜치 전략
 - feature: 단위별 기능 개발 브랜치
   - 네이밍
     - feature/기능요약 형식 추천
