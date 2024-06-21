@@ -1,5 +1,5 @@
 # git-flow-prac
-git flow를 간략하게 익히기 위한 프로젝트입니다 (참고: velog)
+git flow를 간략하게 익히기 위한 프로젝트입니다 (참고: [velog](https://velog.io/@nias0327/Git-Flow%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%A0%81%EC%9A%A9))
 
 ## 브랜치 전략
 - feature: 단위별 기능 개발 브랜치
