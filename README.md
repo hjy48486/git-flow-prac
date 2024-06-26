@@ -14,3 +14,6 @@ git flow를 간략하게 익히기 위한 프로젝트입니다 (참고: [velog]
 - master: 최종 제품 출시용
   - X.0: 프로젝트 추가
   - 1.X: 기능 추가
+
+## 실습
+- main, develop, feature 브랜치로 나누어 진행
